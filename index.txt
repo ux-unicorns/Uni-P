@@ -196,3 +196,10 @@
             <button class="btn btn-light" style="padding: 10px;"><i class="fas fa-plus"></i> Add to Waitlist</button>
             <button class="btn btn-light" style="padding: 10px;"><i class="fas fa-share"></i> Share</button>
           </div>
+
+
+           <!-- <img src="image.jpg" alt="Image">
+                <div class="info">
+                    <h3>Card title</h3>
+                    <p>Card description</p>
+                </div> -->
