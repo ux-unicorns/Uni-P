@@ -208,21 +208,21 @@ body {
 }
 
 
-.container {
+.section {
     display: flex;
     justify-content: space-between;
     margin: 20px;
     padding: 0;
 }
 
-.container .section1 {
+.section .section-left{
     width: 80%;
     /* Adjust the width as needed */
     height: 50vh;
     margin: 20px;
 }
 
-.section2 .card {
+.section-right .card {
     display: flex;
     align-items: end;
     margin: 20px;
