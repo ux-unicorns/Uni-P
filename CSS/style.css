@@ -218,7 +218,8 @@ body {
 
 .section-right .card {
     display: flex;
-    align-items: end;
+    align-items: flex-end;
+margin: 30px;
 }
 
 /* .card{
