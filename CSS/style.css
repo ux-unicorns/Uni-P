@@ -208,14 +208,9 @@ body {
 }
 
 
-.section {
-    display: flex;
-    justify-content: space-between;
-    margin: 20px;
-    padding: 0;
-}
 
-.section .section-left{
+
+.section .section-left-top{
     width: 80%;
     /* Adjust the width as needed */
     height: 50vh;
