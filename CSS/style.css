@@ -184,7 +184,6 @@ body {
 
 .ratings {
     margin-right: 10px;
-
 }
 
 .ratings-1 {
@@ -193,12 +192,12 @@ body {
 }
 
 .ratings i {
-    color: #d29f14;
+    color: #FAA307;
     font-size: 20px;
 }
 
 .rating-color {
-    color: #d29f14 !important;
+    color: #FAA307 !important;
 }
 
 .review-count {
@@ -208,17 +207,15 @@ body {
 }
 
 
-
-
-.section .section-left-top{
-    width: 80%;
-    /* Adjust the width as needed */
-}
-
 .section-right .card {
     display: flex;
     align-items: flex-end;
 margin: 30px;
+}
+
+.progress{
+    margin-bottom: 1rem;
+    color: #FAA307;
 }
 
 /* .card{
