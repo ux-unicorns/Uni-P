@@ -211,12 +211,12 @@ body {
 .section-right .card {
     display: flex;
     align-items: flex-end;
-margin: 30px;
+    margin: 30px;
 }
 
-.progress{
+.progress {
     margin-bottom: 1rem;
-    color: #FAA307;
+    background-color: #FAA307;
 }
 
 /* .card{
