@@ -216,12 +216,7 @@ body {
 
 .progress {
     margin-bottom: 1rem;
-<<<<<<< HEAD
     background-color: #FAA307;
-=======
-    color: #FAA307;
-    width: 60%;
->>>>>>> 54004b711875a3b24b1dda1a348b491d0428e13c
 }
 
 .progress-bar-container>div:first-of-type{
